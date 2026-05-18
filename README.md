@@ -16,13 +16,16 @@ aplicando os conceitos de Programação Orientada a Objetos (POO).
 - Listar todos os veículos com status de disponibilidade
 
 ## 🏗️ Estrutura do Projeto
+
+```text
 src/
 └── cadastroDeVeiculos/
-├── dominio/
-│   ├── Carro.java       # Entidade com atributos, comportamentos e encapsulamento
-│   └── Locadora.java    # Gerencia a frota de veículos
-└── test/
-└── CarroTest.java   # Ponto de entrada com menu interativo
+    ├── dominio/
+    │   ├── Carro.java
+    │   └── Locadora.java
+    └── test/
+        └── CarroTest.java
+```
 
 ## 🛠️ Tecnologias
 
